@@ -1,8 +1,8 @@
 # Expense Tracker Speechly
 
-![Expense Tracker](https://i.ibb.co/qDHGFhN/expense.png)
+![Expense Tracker](https://i.ibb.co/jvJpy6m/expensetracker.png)
 
-### [Live Site](https://weatherforecast-react.netlify.app/)
+### [Live Site](https://expensebudgettracker.netlify.app/)
 
 # Installation
 
