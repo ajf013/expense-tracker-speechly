@@ -2,7 +2,7 @@
 
 ![Expense Tracker](https://i.ibb.co/jvJpy6m/expensetracker.png)
 
-### [Live Site](https://expensebudgettracker.netlify.app/)
+### [Live Site](https://expensebudgettracker.netlify.app/)[![Netlify Status](https://api.netlify.com/api/v1/badges/930c410a-d8d9-44f5-8a6b-be0487e36ab1/deploy-status)](https://app.netlify.com/sites/expensebudgettracker/deploys)
 
 # Installation
 
