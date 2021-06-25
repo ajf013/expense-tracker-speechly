@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react';
 import { Grid } from '@material-ui/core';
-
+import Footer from './components/Footer/Footer';
 import { SpeechState, useSpeechContext } from "@speechly/react-client";
 import { PushToTalkButton, PushToTalkButtonContainer, ErrorPanel } from '@speechly/react-ui';
 
@@ -40,6 +40,7 @@ const App = () => {
           <ErrorPanel />
         </PushToTalkButtonContainer>
       </Grid>
+      <Footer />
     </div>
   );
 };
